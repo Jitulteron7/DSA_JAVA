@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Display Reverse (recursion)/Display Reverse (recursion).iml" filepath="$PROJECT_DIR$/Display Reverse (recursion)/Display Reverse (recursion).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lecture 18 may.iml" filepath="$PROJECT_DIR$/.idea/Lecture 18 may.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverese linkedList (data change)/Reverese linkedList (data change).iml" filepath="$PROJECT_DIR$/Reverese linkedList (data change)/Reverese linkedList (data change).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse Linked List (pointer - Recursive)/Reverse Linked List (pointer - Recursive).iml" filepath="$PROJECT_DIR$/Reverse Linked List (pointer - Recursive)/Reverse Linked List (pointer - Recursive).iml" />
+    </modules>
+  </component>
+</project>

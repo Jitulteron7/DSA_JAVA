@@ -1,0 +1,4 @@
+1. fold a linkedlist 
+2. add two linkedlist 
+will be done in lev 2 class
+Q is a linkedlist palindrom ? HW
